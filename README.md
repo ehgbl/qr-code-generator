@@ -12,7 +12,7 @@ QR Code Generator
 This project provides the preliminary code for a qr code genetor. 
 
 ## Features
-- Adding website to the 
+- 
 
 ### Prerequisites
 - A Python3.8 compiler 
