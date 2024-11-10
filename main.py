@@ -23,7 +23,7 @@ class myQr:
             print(f'Error:{e}')
 
 def main():
-    myqr = myQr(15,15)
+    myqr = myQr(15,4)
     myqr.create_qr('qrcode.png','white','brown')
 
 
